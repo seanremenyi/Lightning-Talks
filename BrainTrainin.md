@@ -1,4 +1,8 @@
-![background picture](1.jpg)
+# Brain Training
+
+https://medium.com/@sean.remenyi/brain-trainin-f008d2bce0a4
+
+![background picture](docs/btpic.jpg)
 
 
 With “quarantine” being the defining word of 2020, most of us spent more time than ever staring at our computer screens, phones and various devices. I know, for one, I have.
