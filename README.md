@@ -9,3 +9,5 @@ I have decided to include them as well here on github in markdown as a way to or
 Links are available for each talk that will bring you to the article or video I have made.
 
 ## Thank You and Enjoy!
+
+![](/docs/Desktop-Browse.png)
