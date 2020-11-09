@@ -1,5 +1,6 @@
 ## Chattin’ about Ethernet LANs
 
+[Medium Article](https://sean-remenyi.medium.com/ethernet-lans-accfd7382f29)
 
 This is a continued discussion on networks and my previous chat can be found here,
 
