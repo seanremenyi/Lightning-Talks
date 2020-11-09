@@ -1,5 +1,7 @@
 ### Chattin’ about OSI
 
+[Medium Article](https://sean-remenyi.medium.com/osi-model-c6179d3f82cd)
+
 
 We use the internet everyday from web browsing to sending emails., but have you ever taken a moment to think about how that actually happens. How does that data actually travel? How does it get from one computer to another?
 
